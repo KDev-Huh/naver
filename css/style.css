@@ -288,6 +288,9 @@ hr{
     text-decoration: none;
     font-size: 14px;
 }
+.notification a:hover{
+    text-decoration: underline;
+}
 .notification span{
     color: gray;
     margin-left: 5px;
